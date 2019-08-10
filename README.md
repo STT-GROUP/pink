@@ -1,1 +1,3 @@
-"# pink" 
+"# pink"
+
+Developer: Stan Dzindzikau. :cat:
